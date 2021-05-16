@@ -1,4 +1,4 @@
-# SW:GoH Status
+# SWGoH Farm Progress
 
 A simple web app to show event farming status for Star Wars: Galaxy of Heroes players using the [SWGOH.GG](https://swgoh.gg) API. Written in [TypeScript](https://www.typescriptlang.org/) and [Svelte](https://svelte.dev)
 because I felt like learning some new things.
